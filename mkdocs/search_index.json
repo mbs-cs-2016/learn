@@ -61,6 +61,76 @@
             "title": "Execute"
         }, 
         {
+            "location": "/storage/", 
+            "text": "Storage\n\n\nContents\n\n\n\n\nSolid State", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/storage/#storage", 
+            "text": "", 
+            "title": "Storage"
+        }, 
+        {
+            "location": "/storage/#contents", 
+            "text": "Solid State", 
+            "title": "Contents"
+        }, 
+        {
+            "location": "/storage/solid-state/", 
+            "text": "Solid State Storage\n\n\nSolid State Storage (SSS) is a type of computer storage media made from silicon microchips.\nSSS stores data electronically instead of magnetically, as spinning hard disk drives (HDDs) or magnetic oxide tape.\n\n\nContents\n\n\n\n\nSolid State Drives\n\n\nUSB Flash Memory", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/storage/solid-state/#solid-state-storage", 
+            "text": "Solid State Storage (SSS) is a type of computer storage media made from silicon microchips.\nSSS stores data electronically instead of magnetically, as spinning hard disk drives (HDDs) or magnetic oxide tape.", 
+            "title": "Solid State Storage"
+        }, 
+        {
+            "location": "/storage/solid-state/#contents", 
+            "text": "Solid State Drives  USB Flash Memory", 
+            "title": "Contents"
+        }, 
+        {
+            "location": "/storage/solid-state/drives/", 
+            "text": "Solid State Drives\n\n\nA data storage device to store data in the same way as HDDs, allowing for backwards compatibility with\nolder hardware, allowing people to transition easier, but without using any mechanical parts making\nthem far more reliable than traditional HDDs.\n\n\nAdvantages\n\n\n\n\nFaster read/write speeds than traditional HDDs (makes this a preferable storage choice to gamers, etc)\n\n\nLower power consumption\n\n\nNot as delicate as traditional HDDs\n\n\nNot affected by magnets!\n\n\nIt uses flash memory to store data, which makes them very reliable\n\n\n\n\nDisadvantages\n\n\n\n\nMore expensive than traditional HDDs\n\n\nStorage capacity is not currently as high as HDDs\n\n\nLimited amount of writes (unless based on DRAM)\n\n\nOld data must first be deleted rather than overwritten", 
+            "title": "Solid State Drives"
+        }, 
+        {
+            "location": "/storage/solid-state/drives/#solid-state-drives", 
+            "text": "A data storage device to store data in the same way as HDDs, allowing for backwards compatibility with\nolder hardware, allowing people to transition easier, but without using any mechanical parts making\nthem far more reliable than traditional HDDs.", 
+            "title": "Solid State Drives"
+        }, 
+        {
+            "location": "/storage/solid-state/drives/#advantages", 
+            "text": "Faster read/write speeds than traditional HDDs (makes this a preferable storage choice to gamers, etc)  Lower power consumption  Not as delicate as traditional HDDs  Not affected by magnets!  It uses flash memory to store data, which makes them very reliable", 
+            "title": "Advantages"
+        }, 
+        {
+            "location": "/storage/solid-state/drives/#disadvantages", 
+            "text": "More expensive than traditional HDDs  Storage capacity is not currently as high as HDDs  Limited amount of writes (unless based on DRAM)  Old data must first be deleted rather than overwritten", 
+            "title": "Disadvantages"
+        }, 
+        {
+            "location": "/storage/solid-state/flash/", 
+            "text": "USB Flash Memory\n\n\nA USB flash drive (Universal Serial Bus) is a popular way to store digital information.\nFlash drives are an easy way to share data (information). A USB flash drive can be attached to\na USB port and provides a certain amount of storage space, which can be used to store data.\nUSB flash drives are used with devices found in homes, workplaces and schools.\n\n\nAdvantages\n\n\n\n\nCheap to buy\n\n\nPortable because they are so small\n\n\nRequires very little power\n\n\nVery reliable (have no moving parts)\n\n\nNo drivers required to read/write\n\n\n\n\nDisadvantages\n\n\n\n\nCan easily be lost\n\n\nLimited number of write and erase cycles before the drive fails\n\n\nData may corrupt\n\n\nThe USB may wear and break\n\n\nA drawback to the small size is that they are easily misplaced, left behind, or otherwise lost.", 
+            "title": "USB Flash Memory"
+        }, 
+        {
+            "location": "/storage/solid-state/flash/#usb-flash-memory", 
+            "text": "A USB flash drive (Universal Serial Bus) is a popular way to store digital information.\nFlash drives are an easy way to share data (information). A USB flash drive can be attached to\na USB port and provides a certain amount of storage space, which can be used to store data.\nUSB flash drives are used with devices found in homes, workplaces and schools.", 
+            "title": "USB Flash Memory"
+        }, 
+        {
+            "location": "/storage/solid-state/flash/#advantages", 
+            "text": "Cheap to buy  Portable because they are so small  Requires very little power  Very reliable (have no moving parts)  No drivers required to read/write", 
+            "title": "Advantages"
+        }, 
+        {
+            "location": "/storage/solid-state/flash/#disadvantages", 
+            "text": "Can easily be lost  Limited number of write and erase cycles before the drive fails  Data may corrupt  The USB may wear and break  A drawback to the small size is that they are easily misplaced, left behind, or otherwise lost.", 
+            "title": "Disadvantages"
+        }, 
+        {
             "location": "/extra/", 
             "text": "Extra\n\n\nThis section is for documents that aren't neccaserily needed for the GCSE, but were helpful to understand some contents of the GCSE.\n\n\nContents\n\n\n\n\nLittle Man Computer", 
             "title": "Home"
