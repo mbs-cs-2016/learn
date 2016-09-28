@@ -13,6 +13,12 @@ pages:
     - CPU:
         - Home: 'cpu/index.md'
         - Instruction Cycle: 'cpu/instruction-cycle.md'
+    - Storage:
+        - Home: 'storage/index.md'
+        - Solid State:
+            - Home: 'storage/solid-state/index.md'
+            - Solid State Drives: 'storage/solid-state/drives.md'
+            - USB Flash Memory: 'storage/solid-state/flash.md'
     - Extra:
         - Home: 'extra/index.md'
         - Little Man Computer:
