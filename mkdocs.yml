@@ -10,7 +10,11 @@ remote_name: origin
 
 pages:
     - Home: 'index.md'
+    - CPU:
+        - Home: 'cpu/index.md'
+        - Instruction Cycle: 'cpu/instruction-cycle.md'
     - Extra:
+        - Home: 'extra/index.md'
         - Little Man Computer:
             - Home: 'extra/lmc/index.md'
             - Advanced: 'extra/lmc/advanced.md'
