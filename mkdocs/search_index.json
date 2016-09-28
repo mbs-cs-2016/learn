@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Learn 2016 Computer Science GCSE\n\n\nWelcome to mbs-cs-2016/learn, a \nopen-source\n documentation project for knowledge needed for the Computer Science GCSE.\n\n\nLinks\n\n\n\n\nGitHub repository", 
+            "text": "Learn 2016 Computer Science GCSE\n\n\nWelcome to mbs-cs-2016/learn, a \nopen-source\n documentation project for knowledge needed for the Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nExtra\n\n\n\n\nLinks\n\n\n\n\nGitHub repository", 
             "title": "Home"
         }, 
         {
             "location": "/#learn-2016-computer-science-gcse", 
             "text": "Welcome to mbs-cs-2016/learn, a  open-source  documentation project for knowledge needed for the Computer Science GCSE.", 
             "title": "Learn 2016 Computer Science GCSE"
+        }, 
+        {
+            "location": "/#contents", 
+            "text": "CPU  Extra", 
+            "title": "Contents"
         }, 
         {
             "location": "/#links", 
@@ -54,6 +59,21 @@
             "location": "/cpu/instruction-cycle/#execute", 
             "text": "The Execute stage then goes onto execute the decoded instruction.", 
             "title": "Execute"
+        }, 
+        {
+            "location": "/extra/", 
+            "text": "Extra\n\n\nThis section is for documents that aren't neccaserily needed for the GCSE, but were helpful to understand some contents of the GCSE.\n\n\nContents\n\n\n\n\nLittle Man Computer", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/extra/#extra", 
+            "text": "This section is for documents that aren't neccaserily needed for the GCSE, but were helpful to understand some contents of the GCSE.", 
+            "title": "Extra"
+        }, 
+        {
+            "location": "/extra/#contents", 
+            "text": "Little Man Computer", 
+            "title": "Contents"
         }, 
         {
             "location": "/extra/lmc/", 
