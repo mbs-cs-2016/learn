@@ -4,17 +4,17 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Documentation for the students taking the Computer Science GCSE starting in 2016.">
+        
         <meta name="author" content="Jamie Mansfield">
-        <link rel="canonical" href="https://mbs-cs-2016.github.io/learn/">
-        <link rel="shortcut icon" href="./img/favicon.ico">
+        <link rel="canonical" href="https://mbs-cs-2016.github.io/learn/cpu/instruction-cycle/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
 
-	<title>Learn 2016 Computer Science GCSE</title>
+	<title>Instruction Cycle - Learn 2016 Computer Science GCSE</title>
 
-        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/highlight.css">
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome-4.0.3.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -25,7 +25,7 @@
         
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -43,7 +43,7 @@
             
 
             <!-- Main title -->
-            <a class="navbar-brand" href=".">Learn 2016 Computer Science GCSE</a>
+            <a class="navbar-brand" href="../..">Learn 2016 Computer Science GCSE</a>
         </div>
 
         <!-- Expanded navigation -->
@@ -53,25 +53,25 @@
                 <ul class="nav navbar-nav">
                 
                 
-                    <li class="active">
-                        <a href=".">Home</a>
+                    <li >
+                        <a href="../..">Home</a>
                     </li>
                 
                 
                 
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">CPU <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         
                             
 <li >
-    <a href="cpu/">Home</a>
+    <a href="../">Home</a>
 </li>
 
                         
                             
-<li >
-    <a href="cpu/instruction-cycle/">Instruction Cycle</a>
+<li class="active">
+    <a href="./">Instruction Cycle</a>
 </li>
 
                         
@@ -91,13 +91,13 @@
         
             
 <li >
-    <a href="extra/lmc/">Home</a>
+    <a href="../../extra/lmc/">Home</a>
 </li>
 
         
             
 <li >
-    <a href="extra/lmc/advanced/">Advanced</a>
+    <a href="../../extra/lmc/advanced/">Advanced</a>
 </li>
 
         
@@ -119,13 +119,13 @@
                     </a>
                 </li>
                 
-                    <li class="disabled">
-                        <a rel="next" >
+                    <li >
+                        <a rel="next" href="../">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="cpu/">
+                        <a rel="prev" href="../../extra/lmc/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -150,21 +150,29 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#learn-2016-computer-science-gcse">Learn 2016 Computer Science GCSE</a></li>
+        <li class="main active"><a href="#instruction-cycle">Instruction Cycle</a></li>
         
-            <li><a href="#links">Links</a></li>
+            <li><a href="#fetch">Fetch</a></li>
+        
+            <li><a href="#decode">Decode</a></li>
+        
+            <li><a href="#execute">Execute</a></li>
         
     
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="learn-2016-computer-science-gcse">Learn 2016 Computer Science GCSE</h1>
-<p>Welcome to mbs-cs-2016/learn, a <a href="https://github.com/mbs-cs-2016/learn">open-source</a> documentation project for knowledge needed for the Computer Science GCSE.</p>
-<h2 id="links">Links</h2>
-<ul>
-<li><a href="https://github.com/mbs-cs-2016/learn">GitHub repository</a></li>
-</ul></div>
+<h1 id="instruction-cycle">Instruction Cycle</h1>
+<p>The Instruction Cycle (or Fetch-Decode-Execute Cycle) is a process that the CPU goes through to process all instructions.
+There are 3 stages to the Instruction Cycle: Fetch, Decode and Execute.</p>
+<h2 id="fetch">Fetch</h2>
+<p>The Fetch stage first gets the memory address of the next instruction from the Program Counter, and then goes onto get the
+data from memory.</p>
+<h2 id="decode">Decode</h2>
+<p>The Decode stage takes the data fetched by the Fetch stage and decodes it ready for the Execute stage.</p>
+<h2 id="execute">Execute</h2>
+<p>The Execute stage then goes onto execute the decoded instruction.</p></div>
             
         </div>
 
@@ -174,12 +182,12 @@
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
-        <script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/bootstrap-3.0.3.min.js"></script>
-        <script src="./js/highlight.pack.js"></script>
-        <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script>
+        <script src="../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../js/highlight.pack.js"></script>
+        <script>var base_url = '../..';</script>
+        <script data-main="../../mkdocs/js/search.js" src="../../mkdocs/js/require.js"></script>
+        <script src="../../js/base.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
             <div class="modal-dialog">
@@ -208,8 +216,3 @@
 
     </body>
 </html>
-
-<!--
-MkDocs version : 0.14.0
-Build Date UTC : 2016-09-28 16:29:32.777307
--->

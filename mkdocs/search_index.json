@@ -16,6 +16,46 @@
             "title": "Links"
         }, 
         {
+            "location": "/cpu/", 
+            "text": "The CPU\n\n\nThe CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.\n\n\nContents\n\n\n\n\nInstruction Cycle", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/cpu/#the-cpu", 
+            "text": "The CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.", 
+            "title": "The CPU"
+        }, 
+        {
+            "location": "/cpu/#contents", 
+            "text": "Instruction Cycle", 
+            "title": "Contents"
+        }, 
+        {
+            "location": "/cpu/instruction-cycle/", 
+            "text": "Instruction Cycle\n\n\nThe Instruction Cycle (or Fetch-Decode-Execute Cycle) is a process that the CPU goes through to process all instructions.\nThere are 3 stages to the Instruction Cycle: Fetch, Decode and Execute.\n\n\nFetch\n\n\nThe Fetch stage first gets the memory address of the next instruction from the Program Counter, and then goes onto get the\ndata from memory.\n\n\nDecode\n\n\nThe Decode stage takes the data fetched by the Fetch stage and decodes it ready for the Execute stage.\n\n\nExecute\n\n\nThe Execute stage then goes onto execute the decoded instruction.", 
+            "title": "Instruction Cycle"
+        }, 
+        {
+            "location": "/cpu/instruction-cycle/#instruction-cycle", 
+            "text": "The Instruction Cycle (or Fetch-Decode-Execute Cycle) is a process that the CPU goes through to process all instructions.\nThere are 3 stages to the Instruction Cycle: Fetch, Decode and Execute.", 
+            "title": "Instruction Cycle"
+        }, 
+        {
+            "location": "/cpu/instruction-cycle/#fetch", 
+            "text": "The Fetch stage first gets the memory address of the next instruction from the Program Counter, and then goes onto get the\ndata from memory.", 
+            "title": "Fetch"
+        }, 
+        {
+            "location": "/cpu/instruction-cycle/#decode", 
+            "text": "The Decode stage takes the data fetched by the Fetch stage and decodes it ready for the Execute stage.", 
+            "title": "Decode"
+        }, 
+        {
+            "location": "/cpu/instruction-cycle/#execute", 
+            "text": "The Execute stage then goes onto execute the decoded instruction.", 
+            "title": "Execute"
+        }, 
+        {
             "location": "/extra/lmc/", 
             "text": "Little Man Computer User Guide\n\n\nPeter Higginson's LMC implementation\n -\n\nHelp Page from Peter Higginson's LMC implementation\n\n\nI have also created a \nGitHub repository\n dedicated to LMC examples.\n\n\nGlossary\n\n\nKnowing the definition of the following words is required to fully understand the User Guide.\n\n\n\n    \n\n        \n\n            \nWord / Phrase\n\n            \nDefinition\n\n        \n\n    \n\n    \n\n        \n\n            \nAccumulator\n\n            \nStores the result of the last operation or calculation.\n\n        \n\n        \n\n            \nProgram Counter\n\n            \nStores the memory location of the next operation to be executed.\n\n        \n\n    \n\n\n\n\n\nBasic Instructions\n\n\nThe following is a list of the basic instructions that can be performed on LMC.\n\n\n\n    \n\n        \n\n            \nInstruction\n\n            \nDescription\n\n        \n\n    \n\n    \n\n        \n\n            \nHLT\n\n            \nSignifies the end of the program.\n\n        \n\n        \n\n            \nINP\n\n            \nWaits for numeric input and stores it in the accumulator.\n\n        \n\n        \n\n            \nOUT\n\n            \nOutputs the contents of the accumulator.\n\n        \n\n        \n\n            \nADD\n\n            \nAdds the contents of the given memory address to the accumulator.\n\n        \n\n        \n\n            \nSUB\n\n            \nSubtracts the contents of the given memory address from the accumulator.\n\n        \n\n        \n\n            \nSTA\n\n            \nStores the contents of the accumulator to the given memory address.\n\n        \n\n        \n\n            \nLDA\n\n            \nLoads the contents of the given memory address to the accumulator.\n\n        \n\n        \n\n            \nDAT\n\n            \nStores the given value in the memory address of the instruction.\n\n        \n\n    \n\n\n\n\n\nExample (basic_calc)\n\n\nUsing the knowledge you've gained above, you should be able to build a simple calculator program like the one below:\n\n\n    INP    # Waits for input and stores it in the accumulator\n    STA 99 # Stores the contents of the accumulator to the memory address: 99 \n    INP    # Waits for input and stores it in the accumulator\n    ADD 99 # Add the contents of memory address: 99 to the accumulator\n    OUT    # Outputs the contents of the accumulator\n    HLT    # Signify the end of the program\n\n\n\n\nLabels\n\n\nIn larger programs, you may be storing lots of data, so using raw memory locations all over the place probably isn't the best of ideas. Labels \nsolve this problem, and make you code neater at the same time.\n\n\nLabels represents a memory address, and can be defined anywhere in your program.\n\n\nRepresenting an instruction (labels_basic)\n\n\nHere we are using a label to represent the memory location of an instruction.\n\n\nSTART INP    # Waits for input and stores it in the accumulator\n      STA 99 # Stores the contents of the accumulator to the memory address: 99 \n      INP    # Waits for input and stores it in the accumulator\n      ADD 99 # Add the contents of memory address: 99 to the accumulator\n      OUT    # Outputs the contents of the accumulator\n      HLT    # Signify the end of the program\n\n\n\n\nRepresenting a memory location for data (labels_advanced)\n\n\nHere we are using a label to represent the memory location of data.\n\n\nSTART INP     # Waits for input and stores it in the accumulator\n      STA NUM # Stores the contents of the accumulator to the memory address of the label: NUM\n      INP     # Waits for input and stores it in the accumulator\n      ADD NUM # Add the contents of memory address of the label: NUM to the accumulator\n      OUT     # Outputs the contents of the accumulator\n      HLT     # Signify the end of the program\nNUM   DAT 1   # Defines the label: NUM as containing data, and sets it to a preset of 1\n\n\n\n\nWhere next?\n\n\nEager to continue learning Little Man Computer? Check out my \nextended User Guide\n.", 
             "title": "Home"
