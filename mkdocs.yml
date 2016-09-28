@@ -7,3 +7,10 @@ repo_url: https://github.com/mbs-cs-2016/learn
 
 remote_branch: gh-pages
 remote_name: origin
+
+pages:
+    - Home: 'index.md'
+    - Extra:
+        - Little Man Computer:
+            - Home: 'extra/lmc/index.md'
+            - Advanced: 'extra/lmc/advanced.md'
