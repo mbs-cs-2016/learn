@@ -4,7 +4,7 @@ site_description: Documentation for the students taking the Computer Science GCS
 site_author: Jamie Mansfield
 
 repo_url: https://github.com/mbs-cs-2016/learn
-google_analytics: [UA-85004702-1, mbs-cs-2016.github.io/learn]
+google_analytics: [UA-85004702-1, auto]
 
 remote_branch: gh-pages
 remote_name: origin
