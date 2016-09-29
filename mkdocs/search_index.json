@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Learn 2016 Computer Science GCSE\n\n\nWelcome to mbs-cs-2016/learn, a \nopen-source\n documentation project for knowledge needed for the Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nExtra\n\n\n\n\nLinks\n\n\n\n\nGitHub repository", 
+            "text": "Learn 2016 Computer Science GCSE\n\n\nWelcome to mbs-cs-2016/learn, a \nopen-source\n documentation project for knowledge needed for the Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nStorage\n\n\nExtra\n\n\n\n\nLinks\n\n\n\n\nGitHub repository", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#contents", 
-            "text": "CPU  Extra", 
+            "text": "CPU  Storage  Extra", 
             "title": "Contents"
         }, 
         {
