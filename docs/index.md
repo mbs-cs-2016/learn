@@ -6,6 +6,7 @@ Welcome to mbs-cs-2016/learn, a [open-source](https://github.com/mbs-cs-2016/lea
 ## Contents
 
 - [CPU](./cpu/)
+- [Storage](./storage/)
 - [Extra](./extra/)
 
 ## Links
