@@ -22,13 +22,18 @@
         }, 
         {
             "location": "/cpu/", 
-            "text": "The CPU\n\n\nThe CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.\n\n\nContents\n\n\n\n\nInstruction Cycle", 
+            "text": "The CPU\n\n\nThe CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.\n\n\nClock Speed\n\n\nClock speed is the amount of \ninstruction cycles\n a CPU can perform in one second, measured in Hz (hertz).\n\n\nNOTE: One kHz (kilohertz) is one thousand cycles in a second. One MHz is one million cycles in a second. One GHz is one billion cycles in a second.\n\n\nContents\n\n\n\n\nInstruction Cycle", 
             "title": "Home"
         }, 
         {
             "location": "/cpu/#the-cpu", 
             "text": "The CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.", 
             "title": "The CPU"
+        }, 
+        {
+            "location": "/cpu/#clock-speed", 
+            "text": "Clock speed is the amount of  instruction cycles  a CPU can perform in one second, measured in Hz (hertz).  NOTE: One kHz (kilohertz) is one thousand cycles in a second. One MHz is one million cycles in a second. One GHz is one billion cycles in a second.", 
+            "title": "Clock Speed"
         }, 
         {
             "location": "/cpu/#contents", 
