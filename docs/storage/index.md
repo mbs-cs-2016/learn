@@ -1,5 +1,7 @@
-Storage
-=======
+Secondary Storage
+=================
+
+This section is for material pertaining to secondary storage.
 
 ## Contents
 
