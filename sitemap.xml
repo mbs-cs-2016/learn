@@ -12,40 +12,20 @@
     
         
     <url>
-     <loc>https://mbs-cs-2016.github.io/learn/cpu/</loc>
+     <loc>https://mbs-cs-2016.github.io/learn/hardware/</loc>
      <lastmod>2016-11-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://mbs-cs-2016.github.io/learn/cpu/instruction-cycle/</loc>
-     <lastmod>2016-11-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://mbs-cs-2016.github.io/learn/memory/</loc>
-     <lastmod>2016-11-29</lastmod>
+     <loc>https://mbs-cs-2016.github.io/learn</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://mbs-cs-2016.github.io/learn/memory/rom/</loc>
-     <lastmod>2016-11-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://mbs-cs-2016.github.io/learn/storage/</loc>
-     <lastmod>2016-11-29</lastmod>
+     <loc>https://mbs-cs-2016.github.io/learn</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         

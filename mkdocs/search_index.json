@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "mbs-cs-2016/learn\n\n\nWelcome to mbs-cs-2016/learn, an \nopen-source\n documentation project for knowledge needed for the \nnew Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nMemory\n\n\nStorage\n\n\nExtra\n\n\n\n\nLicensing\n\n\nThis project is licensed under both the GNU Free Documentation License version 1.3, except in cases of code examples, where the BSD\n3-Clause License is in effect. See the \nLicensing\n section for copies of each respective license, alongside the\nLegal Notice below.\n\n\n    Copyright (c) 2016, Jamie Mansfield.\n    Permission is granted to copy, distribute and/or modify this document\n    under the terms of the GNU Free Documentation License, Version 1.3\n    or any later version published by the Free Software Foundation;\n    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n    A copy of the license is included in the section entitled \nGNU\n    Free Documentation License\n.\n\n\n\n\nLinks\n\n\n\n\nGitHub Organisation\n\n\nGitHub Repository", 
+            "text": "mbs-cs-2016/learn\n\n\nWelcome to mbs-cs-2016/learn, an \nopen-source\n documentation project for knowledge needed for the \nnew Computer Science GCSE.\n\n\nContents\n\n\n\n\nHardware\n\n\nExtra\n\n\n\n\nLicensing\n\n\nThis project is licensed under both the GNU Free Documentation License version 1.3, except in cases of code examples, where the BSD\n3-Clause License is in effect. See the \nLicensing\n section for copies of each respective license, alongside the\nLegal Notice below.\n\n\n    Copyright (c) 2016, Jamie Mansfield.\n    Permission is granted to copy, distribute and/or modify this document\n    under the terms of the GNU Free Documentation License, Version 1.3\n    or any later version published by the Free Software Foundation;\n    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n    A copy of the license is included in the section entitled \nGNU\n    Free Documentation License\n.\n\n\n\n\nLinks\n\n\n\n\nGitHub Organisation\n\n\nGitHub Repository", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#contents", 
-            "text": "CPU  Memory  Storage  Extra", 
+            "text": "Hardware  Extra", 
             "title": "Contents"
         }, 
         {
@@ -26,147 +26,162 @@
             "title": "Links"
         }, 
         {
-            "location": "/cpu/", 
+            "location": "/hardware/", 
+            "text": "Hardware\n\n\nThis section is dedicated to the various physical components that make up a computer.\n\n\nContents\n\n\n\n\nCPU\n\n\nMemory\n\n\nStorage", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/hardware/#hardware", 
+            "text": "This section is dedicated to the various physical components that make up a computer.", 
+            "title": "Hardware"
+        }, 
+        {
+            "location": "/hardware/#contents", 
+            "text": "CPU  Memory  Storage", 
+            "title": "Contents"
+        }, 
+        {
+            "location": "/hardware/cpu/", 
             "text": "The CPU\n\n\nThe CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.\n\n\nClock Speed\n\n\nClock speed is the amount of \ninstruction cycles\n a CPU can perform in one second, measured in Hz (hertz).\n\n\nNOTE: One kHz (kilohertz) is one thousand cycles in a second. One MHz is one million cycles in a second. One GHz is one billion cycles in a second.\n\n\nContents\n\n\n\n\nInstruction Cycle", 
             "title": "Home"
         }, 
         {
-            "location": "/cpu/#the-cpu", 
+            "location": "/hardware/cpu/#the-cpu", 
             "text": "The CPU (Central Processing Unit) is the 'brains of the computer'. It processes everything the computer does.", 
             "title": "The CPU"
         }, 
         {
-            "location": "/cpu/#clock-speed", 
+            "location": "/hardware/cpu/#clock-speed", 
             "text": "Clock speed is the amount of  instruction cycles  a CPU can perform in one second, measured in Hz (hertz).  NOTE: One kHz (kilohertz) is one thousand cycles in a second. One MHz is one million cycles in a second. One GHz is one billion cycles in a second.", 
             "title": "Clock Speed"
         }, 
         {
-            "location": "/cpu/#contents", 
+            "location": "/hardware/cpu/#contents", 
             "text": "Instruction Cycle", 
             "title": "Contents"
         }, 
         {
-            "location": "/cpu/instruction-cycle/", 
+            "location": "/hardware/cpu/instruction-cycle/", 
             "text": "Instruction Cycle\n\n\nThe Instruction Cycle (or Fetch-Decode-Execute Cycle) is a process that the CPU goes through to process all instructions.\nThere are 3 stages to the Instruction Cycle: Fetch, Decode and Execute.\n\n\nFetch\n\n\nThe Fetch stage first gets the memory address of the next instruction from the Program Counter, and then goes onto get the\ndata from memory.\n\n\nDecode\n\n\nThe Decode stage takes the data fetched by the Fetch stage and decodes it ready for the Execute stage.\n\n\nExecute\n\n\nThe Execute stage then goes onto execute the decoded instruction.", 
             "title": "Instruction Cycle"
         }, 
         {
-            "location": "/cpu/instruction-cycle/#instruction-cycle", 
+            "location": "/hardware/cpu/instruction-cycle/#instruction-cycle", 
             "text": "The Instruction Cycle (or Fetch-Decode-Execute Cycle) is a process that the CPU goes through to process all instructions.\nThere are 3 stages to the Instruction Cycle: Fetch, Decode and Execute.", 
             "title": "Instruction Cycle"
         }, 
         {
-            "location": "/cpu/instruction-cycle/#fetch", 
+            "location": "/hardware/cpu/instruction-cycle/#fetch", 
             "text": "The Fetch stage first gets the memory address of the next instruction from the Program Counter, and then goes onto get the\ndata from memory.", 
             "title": "Fetch"
         }, 
         {
-            "location": "/cpu/instruction-cycle/#decode", 
+            "location": "/hardware/cpu/instruction-cycle/#decode", 
             "text": "The Decode stage takes the data fetched by the Fetch stage and decodes it ready for the Execute stage.", 
             "title": "Decode"
         }, 
         {
-            "location": "/cpu/instruction-cycle/#execute", 
+            "location": "/hardware/cpu/instruction-cycle/#execute", 
             "text": "The Execute stage then goes onto execute the decoded instruction.", 
             "title": "Execute"
         }, 
         {
-            "location": "/memory/", 
+            "location": "/hardware/memory/", 
             "text": "Memory\n\n\nMemory is split into three categories: read-only, volatile, and non-volatile.\n\n\nVolatile vs Non-Volatile\n\n\nVolatile simply means that when a loss of power occurs, a loss of data incurs.\n\n\nContents\n\n\n\n\nRead-Only Memory", 
             "title": "Home"
         }, 
         {
-            "location": "/memory/#memory", 
+            "location": "/hardware/memory/#memory", 
             "text": "Memory is split into three categories: read-only, volatile, and non-volatile.", 
             "title": "Memory"
         }, 
         {
-            "location": "/memory/#volatile-vs-non-volatile", 
+            "location": "/hardware/memory/#volatile-vs-non-volatile", 
             "text": "Volatile simply means that when a loss of power occurs, a loss of data incurs.", 
             "title": "Volatile vs Non-Volatile"
         }, 
         {
-            "location": "/memory/#contents", 
+            "location": "/hardware/memory/#contents", 
             "text": "Read-Only Memory", 
             "title": "Contents"
         }, 
         {
-            "location": "/memory/rom/", 
-            "text": "Read-Only Memory\n\n\nRead-Only Memory (ROM) is a type of memory that is permanent, as in is written to during manufactoring and go no longer\nbe written to. Generally motherboard manufactors will use ROM to store the BIOS.", 
+            "location": "/hardware/memory/rom/", 
+            "text": "Read-Only Memory\n\n\nRead-Only Memory (ROM) is a type of memory that is permanent, as in is written to during manufactoring and can no longer\nbe written to. Generally motherboard manufactors will use ROM to store the BIOS.", 
             "title": "Read-Only Memory"
         }, 
         {
-            "location": "/memory/rom/#read-only-memory", 
-            "text": "Read-Only Memory (ROM) is a type of memory that is permanent, as in is written to during manufactoring and go no longer\nbe written to. Generally motherboard manufactors will use ROM to store the BIOS.", 
+            "location": "/hardware/memory/rom/#read-only-memory", 
+            "text": "Read-Only Memory (ROM) is a type of memory that is permanent, as in is written to during manufactoring and can no longer\nbe written to. Generally motherboard manufactors will use ROM to store the BIOS.", 
             "title": "Read-Only Memory"
         }, 
         {
-            "location": "/storage/", 
+            "location": "/hardware/storage/", 
             "text": "Secondary Storage\n\n\nThis section is for material pertaining to secondary storage.\n\n\nContents\n\n\n\n\nSolid State", 
             "title": "Home"
         }, 
         {
-            "location": "/storage/#secondary-storage", 
+            "location": "/hardware/storage/#secondary-storage", 
             "text": "This section is for material pertaining to secondary storage.", 
             "title": "Secondary Storage"
         }, 
         {
-            "location": "/storage/#contents", 
+            "location": "/hardware/storage/#contents", 
             "text": "Solid State", 
             "title": "Contents"
         }, 
         {
-            "location": "/storage/solid-state/", 
+            "location": "/hardware/storage/solid-state/", 
             "text": "Solid State Storage\n\n\nSolid State Storage (SSS) is a type of computer storage media made from silicon microchips.\nSSS stores data electronically instead of magnetically, as spinning hard disk drives (HDDs) or magnetic oxide tape.\n\n\nContents\n\n\n\n\nSolid State Drives\n\n\nUSB Flash Memory", 
             "title": "Home"
         }, 
         {
-            "location": "/storage/solid-state/#solid-state-storage", 
+            "location": "/hardware/storage/solid-state/#solid-state-storage", 
             "text": "Solid State Storage (SSS) is a type of computer storage media made from silicon microchips.\nSSS stores data electronically instead of magnetically, as spinning hard disk drives (HDDs) or magnetic oxide tape.", 
             "title": "Solid State Storage"
         }, 
         {
-            "location": "/storage/solid-state/#contents", 
+            "location": "/hardware/storage/solid-state/#contents", 
             "text": "Solid State Drives  USB Flash Memory", 
             "title": "Contents"
         }, 
         {
-            "location": "/storage/solid-state/drives/", 
+            "location": "/hardware/storage/solid-state/drives/", 
             "text": "Solid State Drives\n\n\nA data storage device to store data in the same way as HDDs, allowing for backwards compatibility with\nolder hardware, allowing people to transition easier, but without using any mechanical parts making\nthem far more reliable than traditional HDDs.\n\n\nAdvantages\n\n\n\n\nFaster read/write speeds than traditional HDDs (makes this a preferable storage choice to gamers, etc)\n\n\nLower power consumption\n\n\nNot as delicate as traditional HDDs\n\n\nNot affected by magnets!\n\n\nIt uses flash memory to store data, which makes them very reliable\n\n\n\n\nDisadvantages\n\n\n\n\nMore expensive than traditional HDDs\n\n\nStorage capacity is not currently as high as HDDs\n\n\nLimited amount of writes (unless based on DRAM)\n\n\nOld data must first be deleted rather than overwritten", 
             "title": "Solid State Drives"
         }, 
         {
-            "location": "/storage/solid-state/drives/#solid-state-drives", 
+            "location": "/hardware/storage/solid-state/drives/#solid-state-drives", 
             "text": "A data storage device to store data in the same way as HDDs, allowing for backwards compatibility with\nolder hardware, allowing people to transition easier, but without using any mechanical parts making\nthem far more reliable than traditional HDDs.", 
             "title": "Solid State Drives"
         }, 
         {
-            "location": "/storage/solid-state/drives/#advantages", 
+            "location": "/hardware/storage/solid-state/drives/#advantages", 
             "text": "Faster read/write speeds than traditional HDDs (makes this a preferable storage choice to gamers, etc)  Lower power consumption  Not as delicate as traditional HDDs  Not affected by magnets!  It uses flash memory to store data, which makes them very reliable", 
             "title": "Advantages"
         }, 
         {
-            "location": "/storage/solid-state/drives/#disadvantages", 
+            "location": "/hardware/storage/solid-state/drives/#disadvantages", 
             "text": "More expensive than traditional HDDs  Storage capacity is not currently as high as HDDs  Limited amount of writes (unless based on DRAM)  Old data must first be deleted rather than overwritten", 
             "title": "Disadvantages"
         }, 
         {
-            "location": "/storage/solid-state/flash/", 
+            "location": "/hardware/storage/solid-state/flash/", 
             "text": "USB Flash Memory\n\n\nA USB flash drive (Universal Serial Bus) is a popular way to store digital information.\nFlash drives are an easy way to share data (information). A USB flash drive can be attached to\na USB port and provides a certain amount of storage space, which can be used to store data.\nUSB flash drives are used with devices found in homes, workplaces and schools.\n\n\nAdvantages\n\n\n\n\nCheap to buy\n\n\nPortable because they are so small\n\n\nRequires very little power\n\n\nVery reliable (have no moving parts)\n\n\nNo drivers required to read/write\n\n\n\n\nDisadvantages\n\n\n\n\nCan easily be lost\n\n\nLimited number of write and erase cycles before the drive fails\n\n\nData may corrupt\n\n\nThe USB may wear and break\n\n\nA drawback to the small size is that they are easily misplaced, left behind, or otherwise lost.", 
             "title": "USB Flash Memory"
         }, 
         {
-            "location": "/storage/solid-state/flash/#usb-flash-memory", 
+            "location": "/hardware/storage/solid-state/flash/#usb-flash-memory", 
             "text": "A USB flash drive (Universal Serial Bus) is a popular way to store digital information.\nFlash drives are an easy way to share data (information). A USB flash drive can be attached to\na USB port and provides a certain amount of storage space, which can be used to store data.\nUSB flash drives are used with devices found in homes, workplaces and schools.", 
             "title": "USB Flash Memory"
         }, 
         {
-            "location": "/storage/solid-state/flash/#advantages", 
+            "location": "/hardware/storage/solid-state/flash/#advantages", 
             "text": "Cheap to buy  Portable because they are so small  Requires very little power  Very reliable (have no moving parts)  No drivers required to read/write", 
             "title": "Advantages"
         }, 
         {
-            "location": "/storage/solid-state/flash/#disadvantages", 
+            "location": "/hardware/storage/solid-state/flash/#disadvantages", 
             "text": "Can easily be lost  Limited number of write and erase cycles before the drive fails  Data may corrupt  The USB may wear and break  A drawback to the small size is that they are easily misplaced, left behind, or otherwise lost.", 
             "title": "Disadvantages"
         }, 
