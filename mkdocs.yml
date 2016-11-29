@@ -14,6 +14,9 @@ pages:
     - CPU:
         - Home: 'cpu/index.md'
         - Instruction Cycle: 'cpu/instruction-cycle.md'
+    - Memory:
+        - Home: 'memory/index.md'
+        - Read-Only Memory: 'memory/rom.md'
     - Storage:
         - Home: 'storage/index.md'
         - Solid State:
