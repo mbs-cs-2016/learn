@@ -6,3 +6,4 @@ This section is for documents that aren't neccaserily needed for the GCSE, but w
 ## Contents
 
 - [Little Man Computer](./lmc/)
+- [Licensing](./licensing/)

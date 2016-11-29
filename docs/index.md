@@ -17,5 +17,5 @@ where the BSD 3-Clause License is in effect.
 
 ## Links
 
-- [GitHub organisation](https://github.com/mbs-cs-2016)
-- [GitHub repository](https://github.com/mbs-cs-2016/learn)
+- [GitHub Organisation](https://github.com/mbs-cs-2016)
+- [GitHub Repository](https://github.com/mbs-cs-2016/learn)

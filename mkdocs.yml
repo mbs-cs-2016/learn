@@ -1,6 +1,6 @@
 site_name: mbs-cs-2016/learn
 site_url: https://mbs-cs-2016.github.io/learn
-site_description: Documentation for the students taking the new Computer Science GCSE.
+site_description: A collection of documents to aid in learning / revision with the Computer Science GCSE starting 2016.
 site_author: Jamie Mansfield
 
 repo_url: https://github.com/mbs-cs-2016/learn
@@ -25,3 +25,7 @@ pages:
         - Little Man Computer:
             - Home: 'extra/lmc/index.md'
             - Advanced: 'extra/lmc/advanced.md'
+        - Licensing:
+            - Home: 'extra/licensing/index.md'
+            - GPL Free Documentation License: 'extra/licensing/gpl-free-documentation-license.md'
+            - BSD 3-Clause License: 'extra/licensing/bsd-3-clause.md'
