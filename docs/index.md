@@ -6,9 +6,7 @@ new Computer Science GCSE.
 
 ## Contents
 
-- [CPU](./cpu/)
-- [Memory](./memory/)
-- [Storage](./storage/)
+- [Hardware](./hardware/)
 - [Extra](./extra/)
 
 ## Licensing

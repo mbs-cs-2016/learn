@@ -11,18 +11,20 @@ remote_name: origin
 
 pages:
     - Home: 'index.md'
-    - CPU:
-        - Home: 'cpu/index.md'
-        - Instruction Cycle: 'cpu/instruction-cycle.md'
-    - Memory:
-        - Home: 'memory/index.md'
-        - Read-Only Memory: 'memory/rom.md'
-    - Storage:
-        - Home: 'storage/index.md'
-        - Solid State:
-            - Home: 'storage/solid-state/index.md'
-            - Solid State Drives: 'storage/solid-state/drives.md'
-            - USB Flash Memory: 'storage/solid-state/flash.md'
+    - Hardware:
+        - Home: 'hardware/index.md'
+        - CPU:
+            - Home: 'hardware/cpu/index.md'
+            - Instruction Cycle: 'hardware/cpu/instruction-cycle.md'
+        - Memory:
+            - Home: 'hardware/memory/index.md'
+            - Read-Only Memory: 'hardware/memory/rom.md'
+        - Storage:
+            - Home: 'hardware/storage/index.md'
+            - Solid State:
+                - Home: 'hardware/storage/solid-state/index.md'
+                - Solid State Drives: 'hardware/storage/solid-state/drives.md'
+                - USB Flash Memory: 'hardware/storage/solid-state/flash.md'
     - Extra:
         - Home: 'extra/index.md'
         - Little Man Computer:
