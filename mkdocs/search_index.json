@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "mbs-cs-2016/learn\n\n\nWelcome to mbs-cs-2016/learn, an \nopen-source\n documentation project for knowledge needed for the \nnew Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nStorage\n\n\nExtra\n\n\n\n\nLicense\n\n\nThis project is licensed under the GNU Free Documentation License version 1.3, except in cases of code examples,\nwhere the BSD 3-Clause License is in effect.\n\n\nLinks\n\n\n\n\nGitHub Organisation\n\n\nGitHub Repository", 
+            "text": "mbs-cs-2016/learn\n\n\nWelcome to mbs-cs-2016/learn, an \nopen-source\n documentation project for knowledge needed for the \nnew Computer Science GCSE.\n\n\nContents\n\n\n\n\nCPU\n\n\nStorage\n\n\nExtra\n\n\n\n\nLicensing\n\n\nThis project is licensed under both the GNU Free Documentation License version 1.3, except in cases of code examples, where the BSD\n3-Clause License is in effect. See the \nLicensing\n section for copies of each respective license, alongside the\nLegal Notice below.\n\n\n    Copyright (c) 2016, Jamie Mansfield.\n    Permission is granted to copy, distribute and/or modify this document\n    under the terms of the GNU Free Documentation License, Version 1.3\n    or any later version published by the Free Software Foundation;\n    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n    A copy of the license is included in the section entitled \nGNU\n    Free Documentation License\n.\n\n\n\n\nLinks\n\n\n\n\nGitHub Organisation\n\n\nGitHub Repository", 
             "title": "Home"
         }, 
         {
@@ -16,9 +16,9 @@
             "title": "Contents"
         }, 
         {
-            "location": "/#license", 
-            "text": "This project is licensed under the GNU Free Documentation License version 1.3, except in cases of code examples,\nwhere the BSD 3-Clause License is in effect.", 
-            "title": "License"
+            "location": "/#licensing", 
+            "text": "This project is licensed under both the GNU Free Documentation License version 1.3, except in cases of code examples, where the BSD\n3-Clause License is in effect. See the  Licensing  section for copies of each respective license, alongside the\nLegal Notice below.      Copyright (c) 2016, Jamie Mansfield.\n    Permission is granted to copy, distribute and/or modify this document\n    under the terms of the GNU Free Documentation License, Version 1.3\n    or any later version published by the Free Software Foundation;\n    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.\n    A copy of the license is included in the section entitled  GNU\n    Free Documentation License .", 
+            "title": "Licensing"
         }, 
         {
             "location": "/#links", 
