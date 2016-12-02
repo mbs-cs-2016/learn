@@ -202,13 +202,18 @@
         }, 
         {
             "location": "/programming/oop/", 
-            "text": "Object-Oriented Programming\n\n\nObject-Oriented Programming is a programming paradigm that states how a program should use programming constructs, in its case with the use of objects.", 
+            "text": "Object-Oriented Programming\n\n\nObject-Oriented Programming is a programming paradigm that states how a program should use programming constructs, in its case with the use of objects.\nOOP Languages often have many more data types than Procedural Languages, which often just have the core data types and structs, a type little OOP\nLanguages have.\n\n\nOOP promotes the use of modular parts, usually classes, to seperate program logic and data. Often this doesn't happen quite to plan and cyclic dependencies\nare made or there isn't a clear divide between logic and data, an argument pro-Procedural programmers often take.\n\n\nExamples of OOP languages\n\n\n\n\nC++\n\n\nJava\n\n\nPython\n\n\nC#", 
             "title": "Object-Oriented Programming"
         }, 
         {
             "location": "/programming/oop/#object-oriented-programming", 
-            "text": "Object-Oriented Programming is a programming paradigm that states how a program should use programming constructs, in its case with the use of objects.", 
+            "text": "Object-Oriented Programming is a programming paradigm that states how a program should use programming constructs, in its case with the use of objects.\nOOP Languages often have many more data types than Procedural Languages, which often just have the core data types and structs, a type little OOP\nLanguages have.  OOP promotes the use of modular parts, usually classes, to seperate program logic and data. Often this doesn't happen quite to plan and cyclic dependencies\nare made or there isn't a clear divide between logic and data, an argument pro-Procedural programmers often take.", 
             "title": "Object-Oriented Programming"
+        }, 
+        {
+            "location": "/programming/oop/#examples-of-oop-languages", 
+            "text": "C++  Java  Python  C#", 
+            "title": "Examples of OOP languages"
         }, 
         {
             "location": "/extra/", 
