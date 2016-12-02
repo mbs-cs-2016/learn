@@ -25,6 +25,9 @@ pages:
                 - Home: 'hardware/storage/solid-state/index.md'
                 - Solid State Drives: 'hardware/storage/solid-state/drives.md'
                 - USB Flash Memory: 'hardware/storage/solid-state/flash.md'
+    - Programming:
+        - Home: 'programming/index.md'
+        - Object-Oriented Programming: 'programming/oop.md'
     - Extra:
         - Home: 'extra/index.md'
         - Little Man Computer:

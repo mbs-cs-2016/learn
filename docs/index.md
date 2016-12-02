@@ -1,5 +1,5 @@
 mbs-cs/learn
-=================
+============
 
 Welcome to mbs-cs/learn, an [open-source](https://github.com/mbs-cs/learn) documentation project for knowledge needed for the 
 new Computer Science GCSE.
@@ -7,6 +7,7 @@ new Computer Science GCSE.
 ## Contents
 
 - [Hardware](./hardware/)
+- [Programming](./programming/)
 - [Extra](./extra/)
 
 ## Licensing
