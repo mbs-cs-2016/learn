@@ -40,6 +40,22 @@
     
         
     <url>
+     <loc>https://mbs-cs.github.io/learn/programming/</loc>
+     <lastmod>2016-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mbs-cs.github.io/learn/programming/oop/</loc>
+     <lastmod>2016-12-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>https://mbs-cs.github.io/learn/extra/</loc>
      <lastmod>2016-12-02</lastmod>
      <changefreq>daily</changefreq>
