@@ -4,7 +4,7 @@ Little Man Computer User Guide
 **[Peter Higginson's LMC implementation](http://peterhigginson.co.uk/LMC/)** -
 **[Help Page from Peter Higginson's LMC implementation](http://peterhigginson.co.uk/LMC/help.html)**
 
-**I have also created a [GitHub repository](https://github.com/mbs-cs-2016/lmc-examples) dedicated to LMC examples.**
+**I have also created a [GitHub repository](https://github.com/mbs-cs/lmc-examples) dedicated to LMC examples.**
 
 ## Glossary
 

@@ -1,7 +1,7 @@
-mbs-cs-2016/learn
+mbs-cs/learn
 =================
 
-Welcome to mbs-cs-2016/learn, an [open-source](https://github.com/mbs-cs-2016/learn) documentation project for knowledge needed for the 
+Welcome to mbs-cs/learn, an [open-source](https://github.com/mbs-cs/learn) documentation project for knowledge needed for the 
 new Computer Science GCSE.
 
 ## Contents
@@ -27,5 +27,5 @@ Legal Notice below.
 
 ## Links
 
-- [GitHub Organisation](https://github.com/mbs-cs-2016)
-- [GitHub Repository](https://github.com/mbs-cs-2016/learn)
+- [GitHub Organisation](https://github.com/mbs-cs)
+- [GitHub Repository](https://github.com/mbs-cs/learn)

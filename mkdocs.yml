@@ -1,9 +1,9 @@
-site_name: mbs-cs-2016/learn
-site_url: https://mbs-cs-2016.github.io/learn
+site_name: mbs-cs/learn
+site_url: https://mbs-cs.github.io/learn
 site_description: A collection of documents to aid in learning / revision with the Computer Science GCSE starting 2016.
 site_author: Jamie Mansfield
 
-repo_url: https://github.com/mbs-cs-2016/learn
+repo_url: https://github.com/mbs-cs/learn
 google_analytics: [UA-85004702-1, auto]
 
 remote_branch: gh-pages
