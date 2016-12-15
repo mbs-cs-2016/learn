@@ -7,11 +7,21 @@ case "$1" in
     "deploy")
         scripts/deploy.sh
     ;;
+    "setupTravisWorkspace")
+        scripts/setupTravisWorkspace.sh
+    ;;
+    "buildTravis")
+        scripts/buildTravis.sh
+    ;;
     *)
         echo "mbs-cs/learn build tool. This command provides a variety of commands to control the learn build process."
         echo ""
         echo "Commands:"
         echo "  * serve  | Sets up a local environment on which the docs are running on ::8000"
         echo "  * deploy | Deploys the docs to the gh-pages branch and pushes to the 'origin' remote"
+        echo ""
+        echo "Travis-specific commands:"
+        echo "  * setupTravisWorkspace | Sets up the Travis workspace to be used for later deploying"
+        echo "  * buildTravis          | Deploys the docs to the gh-pages branch, similar to the standard 'deploy' command"
     ;;
 esac

@@ -1,0 +1,11 @@
+sudo: false
+language: python
+python:
+    - '3.4'
+install: './cli setupTravisWorkspace'
+script: './cli buildTravis'
+env:
+    global:
+        secure: "h1B/IrsBN5LIR7aA4NowD7WN7MARjkuPjP2VoGz1so8b3Kn5qaStmYFK15cKXWdJz7ussj1MERpBz0Ro8u9bjv59XAC5ekxI14PArZwKyUmcXD1jJKC2tXHZT3qqkKO96Ktjh7tuoxZbTnNGCWdTw24kD7qKaXN99hu0YINPFyDzgy/kH3MEgcISSWETWrm6OBxYJH8lp+I/okokp/pJQQjaYpHdu7hm4QRFP3BK+ADWr9tCBXz3TmrtFQ6d8u418JvnbTnoF+5FXYdWpuC0zCouxDC6/4IUN7sRdBOs3b51pYHH2NejbZQlz/qxm0xmHZsrwHtMR+INpV0rHLv0Tg4BAXpeu7UQWSR5eTUJ8nbEkRqkcTtciKrSjn0lVKGNAnA/YTdPr+ky7ACquFFBi5ZflhPgF7X8c/xEj9Lf23IOuYRNZ1JVlujAY5r4ImwzwGuqGrbgj/Qw8uulNdtz+jc7RSSpZ3AgygHTWGe2lhSIwnB0Oy+9fdBa+U3hqQcSo14UEG8kJhYUDd/Nf+8kqFMLhPQezVOpwVT4PAx167zvI64GVLPqghZ+1DF/D4yx9P9aQlhCCExfSAOahWN4+s8kugTz7ajpahKTnd34+k6Qf06fWpD4/IzmPt8lPkUSjXr8P2N1jMW+LeoDwkBtg99F1Z0Kyx2RDCE26Cm39DI="
+notifications:
+  email: false
