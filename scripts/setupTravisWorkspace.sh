@@ -8,9 +8,3 @@ pip install -r ./etc/requirements.txt
 
 # Get the deploy scripts
 git clone $LEX_DEPLOY $DEPLOY_SCRIPTS
-
-# Initialize the ssh-agent
-eval $(ssh-agent)
-
-# Set up our Git environment
-$DEPLOY_SCRIPTS/setup_git
