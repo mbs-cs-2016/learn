@@ -19,7 +19,7 @@ if [[ $TRAVIS_PULL_REQUEST = false && $TRAVIS_BRANCH = master ]]; then
     # Deploy
     cd site
     git add -A .
-    git commit -q -m "Deploy $(TRAVIS_COMMIT) from $(TRAVIS_BRANCH)"
+    git commit -q -m "Deploy $TRAVIS_COMMIT from $TRAVIS_BRANCH"
     git push -q origin gh-pages
     echo "Done! Successfully published docs!"
 
@@ -41,9 +41,9 @@ if [[ $TRAVIS_REPO_SLUG = "mbs-cs/learn" && -n $TRAVIS_BRANCH = master ]]; then
     mkdocs build
 
     # Deploy
-    cp -R ./site/. ./learn/branch/$(TRAVIS_BRANCH)/
+    cp -R ./site/. ./learn/branch/$TRAVIS_BRANCH/
     git add -A .
-    git commit -q -m "Deploy $(TRAVIS_COMMIT) from $(TRAVIS_BRANCH)"
+    git commit -q -m "Deploy $TRAVIS_COMMIT from $TRAVIS_BRANCH"
     git push -q origin gh-pages
     echo "Done! Successfully published docs!"
 
