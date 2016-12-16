@@ -27,7 +27,7 @@ if [[ $TRAVIS_PULL_REQUEST = false && $TRAVIS_BRANCH = master ]]; then
     eval $(ssh-agent -k)
 fi
 
-if [[ $TRAVIS_REPO_SLUG = "mbs-cs/learn" && -n $TRAVIS_BRANCH = master ]]; then
+if [[ -n $TRAVIS_BRANCH = master && $TRAVIS_REPO_SLUG = mbs-cs/learn ]]; then
     # Initialise the ssh-agent
     eval $(ssh-agent)
 
