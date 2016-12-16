@@ -41,6 +41,7 @@ if [[ !($TRAVIS_BRANCH = master) && ($TRAVIS_REPO_SLUG = mbs-cs/learn) ]]; then
     mkdocs build
 
     # Deploy
+    mkdir -p ./learn/branch/$TRAVIS_BRANCH/
     cp -R ./site/. ./learn/branch/$TRAVIS_BRANCH/
     git add -A .
     git commit -q -m "Deploy $TRAVIS_COMMIT from $TRAVIS_BRANCH"
