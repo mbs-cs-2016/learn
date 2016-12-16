@@ -43,6 +43,7 @@ if [[ !($TRAVIS_BRANCH = master) && ($TRAVIS_REPO_SLUG = mbs-cs/learn) ]]; then
     # Deploy
     mkdir -p ./learn/branch/$TRAVIS_BRANCH/
     cp -R ./site/. ./learn/branch/$TRAVIS_BRANCH/
+    cd ./learn/branch/$TRAVIS_BRANCH/
     git add -A .
     git commit -q -m "Deploy $TRAVIS_COMMIT from $TRAVIS_BRANCH"
     git push -q origin gh-pages
