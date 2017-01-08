@@ -7,7 +7,7 @@ which can be found below.
 ```
 BSD 3-Clause License
 
-Copyright (c) 2016, Jamie Mansfield
+Copyright (c) 2016-2017, Jamie Mansfield
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

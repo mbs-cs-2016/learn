@@ -18,7 +18,7 @@ This project is licensed under both the GNU Free Documentation License version 1
 Legal Notice below.
 
 ```
-    Copyright (c) 2016, Jamie Mansfield.
+    Copyright (c) 2016-2017, Jamie Mansfield.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
