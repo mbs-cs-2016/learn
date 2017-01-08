@@ -6,6 +6,7 @@ new Computer Science GCSE.
 
 ## Contents
 
+- [Data](./data/)
 - [Hardware](./hardware/)
 - [Programming](./programming/)
 - [Extra](./extra/)

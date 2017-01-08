@@ -11,6 +11,9 @@ remote_name: origin
 
 pages:
     - Home: 'index.md'
+    - Data:
+        - Home: 'data/index.md'
+        - Units: 'data/units.md'
     - Hardware:
         - Home: 'hardware/index.md'
         - CPU:
