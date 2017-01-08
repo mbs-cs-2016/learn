@@ -13,9 +13,12 @@ pages:
     - Home: 'index.md'
     - Data:
         - Home: 'data/index.md'
+        - Binary: 'data/binary.md'
+        - Denary: 'data/denary.md'
         - Units: 'data/units.md'
     - Hardware:
         - Home: 'hardware/index.md'
+        - Motherboard: 'hardware/motherboard.md'
         - CPU:
             - Home: 'hardware/cpu/index.md'
             - Instruction Cycle: 'hardware/cpu/instruction-cycle.md'
