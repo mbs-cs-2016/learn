@@ -18,6 +18,18 @@
     </url>
         
     <url>
+     <loc>https://mbs-cs.github.io/learn/data/binary/</loc>
+     <lastmod>2017-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mbs-cs.github.io/learn/data/denary/</loc>
+     <lastmod>2017-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>https://mbs-cs.github.io/learn/data/units/</loc>
      <lastmod>2017-01-08</lastmod>
      <changefreq>daily</changefreq>
@@ -29,6 +41,12 @@
         
     <url>
      <loc>https://mbs-cs.github.io/learn/hardware/</loc>
+     <lastmod>2017-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://mbs-cs.github.io/learn/hardware/motherboard/</loc>
      <lastmod>2017-01-08</lastmod>
      <changefreq>daily</changefreq>
     </url>

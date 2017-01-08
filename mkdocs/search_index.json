@@ -27,7 +27,7 @@
         },
         {
             "location": "/data/",
-            "text": "Data\n\n\nThis section contains articles related to data.\n\n\nContents\n\n\n\n\nUnits",
+            "text": "Data\n\n\nThis section contains articles related to data.\n\n\nContents\n\n\n\n\nBinary\n\n\nDenary\n\n\nUnits",
             "title": "Home"
         },
         {
@@ -37,8 +37,28 @@
         },
         {
             "location": "/data/#contents",
-            "text": "Units",
+            "text": "Binary  Denary  Units",
             "title": "Contents"
+        },
+        {
+            "location": "/data/binary/",
+            "text": "Binary\n\n\nBinary (or base-2) is a representation of numbers using only 2 symbols: ones and zeros.\n\n\n\n\n\n\n\n\n2^7\n\n\n2^6\n\n\n2^5\n\n\n2^4\n\n\n2^3\n\n\n2^2\n\n\n2^1\n\n\n2^0\n\n\n\n\n\n\n\n\n\n\n128\n\n\n64\n\n\n32\n\n\n16\n\n\n8\n\n\n4\n\n\n2\n\n\n1\n\n\n\n\n\n\n\n\nUsing the above table, you can represent any number in Binary. For example 201:\n\n\n\n\n\n\n\n\n128\n\n\n64\n\n\n32\n\n\n16\n\n\n8\n\n\n4\n\n\n2\n\n\n1\n\n\n\n\n\n\n\n\n\n\n1\n\n\n1\n\n\n0\n\n\n0\n\n\n1\n\n\n0\n\n\n0\n\n\n1\n\n\n\n\n\n\n\n\n128 + 64 + 8 + 1 = 201",
+            "title": "Binary"
+        },
+        {
+            "location": "/data/binary/#binary",
+            "text": "Binary (or base-2) is a representation of numbers using only 2 symbols: ones and zeros.     2^7  2^6  2^5  2^4  2^3  2^2  2^1  2^0      128  64  32  16  8  4  2  1     Using the above table, you can represent any number in Binary. For example 201:     128  64  32  16  8  4  2  1      1  1  0  0  1  0  0  1     128 + 64 + 8 + 1 = 201",
+            "title": "Binary"
+        },
+        {
+            "location": "/data/denary/",
+            "text": "Denary\n\n\nDenary (or base-10) is a representation of numbers using only 10 symbols: zero, one, two, three, four,\nfive, six, seven, eight and nine.\n\n\n\n\n\n\n\n\n10^2\n\n\n10^1\n\n\n10^0\n\n\n\n\n\n\n\n\n\n\n100\n\n\n10\n\n\n1\n\n\n\n\n\n\n\n\nUsing the above table, you can represent any number in Denary. For example 201:\n\n\n\n\n\n\n\n\n100\n\n\n10\n\n\n1\n\n\n\n\n\n\n\n\n\n\n2\n\n\n0\n\n\n1\n\n\n\n\n\n\n\n\n(100 * 2) + (10 * 0) + (1 * 1) = 201",
+            "title": "Denary"
+        },
+        {
+            "location": "/data/denary/#denary",
+            "text": "Denary (or base-10) is a representation of numbers using only 10 symbols: zero, one, two, three, four,\nfive, six, seven, eight and nine.     10^2  10^1  10^0      100  10  1     Using the above table, you can represent any number in Denary. For example 201:     100  10  1      2  0  1     (100 * 2) + (10 * 0) + (1 * 1) = 201",
+            "title": "Denary"
         },
         {
             "location": "/data/units/",
@@ -52,7 +72,7 @@
         },
         {
             "location": "/hardware/",
-            "text": "Hardware\n\n\nThis section is dedicated to the various physical components that make up a computer.\n\n\nContents\n\n\n\n\nCPU\n\n\nMemory\n\n\nStorage",
+            "text": "Hardware\n\n\nThis section is dedicated to the various physical components that make up a computer.\n\n\nContents\n\n\n\n\nMotherboard\n\n\nCPU\n\n\nMemory\n\n\nStorage",
             "title": "Home"
         },
         {
@@ -62,8 +82,18 @@
         },
         {
             "location": "/hardware/#contents",
-            "text": "CPU  Memory  Storage",
+            "text": "Motherboard  CPU  Memory  Storage",
             "title": "Contents"
+        },
+        {
+            "location": "/hardware/motherboard/",
+            "text": "Motherboard\n\n\nThe motherboard is the baord that brings all the components in a computer together to be able to operate. They come in a variety\nof sizes (eg ATX, Micro-ATX and Mini-ITX). Motherboards are designed around a socket type (eg socket 1151 (Intel Skylake)) and \nwill always have IO on them, and contain a standard-size faceplate to apply to the consumer's case.",
+            "title": "Motherboard"
+        },
+        {
+            "location": "/hardware/motherboard/#motherboard",
+            "text": "The motherboard is the baord that brings all the components in a computer together to be able to operate. They come in a variety\nof sizes (eg ATX, Micro-ATX and Mini-ITX). Motherboards are designed around a socket type (eg socket 1151 (Intel Skylake)) and \nwill always have IO on them, and contain a standard-size faceplate to apply to the consumer's case.",
+            "title": "Motherboard"
         },
         {
             "location": "/hardware/cpu/",
