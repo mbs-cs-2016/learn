@@ -1,6 +1,8 @@
 mbs-cs/learn
 ============
 
+**This is being phased out in favor of [Lexteam Educate](http://www.lexteam.xyz/educate/)**
+
 Welcome to mbs-cs/learn, an [open-source](https://github.com/mbs-cs/learn) documentation project for knowledge needed for the 
 new Computer Science GCSE.
 

@@ -10,8 +10,8 @@ case "$1" in
     "setupTravisWorkspace")
         scripts/setupTravisWorkspace.sh
     ;;
-    "buildTravis")
-        scripts/buildTravis.sh
+    "deployTravis")
+        scripts/deployTravis.sh
     ;;
     *)
         echo "mbs-cs/learn build tool. This command provides a variety of commands to control the learn build process."
@@ -22,6 +22,6 @@ case "$1" in
         echo ""
         echo "Travis-specific commands:"
         echo "  * setupTravisWorkspace | Sets up the Travis workspace to be used for later deploying"
-        echo "  * buildTravis          | Deploys the docs to the gh-pages branch, similar to the standard 'deploy' command"
+        echo "  * deployTravis         | Deploys the docs to the gh-pages branch, similar to the standard 'deploy' command"
     ;;
 esac

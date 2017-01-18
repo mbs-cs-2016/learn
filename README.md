@@ -1,6 +1,8 @@
 mbs-cs/learn
 ============
 
+**This is being phased out in favor of [Lexteam Educate](http://www.lexteam.xyz/educate/)**
+
 A collection of documents to aid in learning / revision with the Computer Science GCSE starting 2016.
 
 ## License
